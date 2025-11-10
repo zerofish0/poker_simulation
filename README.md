@@ -63,7 +63,7 @@ cd poker_simulation
 pip install -r requirements.txt
 ```
 
-## Running the program
+## Running the program
 
 ```bash
 python3 main.py
@@ -84,7 +84,7 @@ The program goes through all possible hands (ALL_POSSIBLE_HANDS) and checks whet
 1. Repository klonen: 
 ```bash
 git clone https://github.com/zerofish0/poker_simulation.git
-``
+```
 oder das Repository direkt von GitHub herunterladen.
 
 2. In das Projektverzeichnis wechseln:
@@ -99,7 +99,7 @@ cd poker_simulation
 pip install -r requirements.txt
 ```
 
-## Programm starten
+## Program starten
 
 ```bash
 python3 main.py
