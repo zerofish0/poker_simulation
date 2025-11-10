@@ -48,7 +48,7 @@ Le programme parcourt toutes les mains possibles (`ALL_POSSIBLE_HANDS`) et teste
 1. Clone the repository:  
 ```bash
 git clone https://github.com/zerofish0/poker_simulation.git
-``
+```
 or download the repository directly from GitHub.
 
 2. Navigate to the project directory:
