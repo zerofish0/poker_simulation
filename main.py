@@ -2,7 +2,7 @@
 ###[POKER SIMULATION]###
 ########################
 ## De la simulation des probabilités des combinaisons de poker
-## Martin MAUTOUCHET Tle 1
+## ******************
 
 ## Importations
 import itertools
