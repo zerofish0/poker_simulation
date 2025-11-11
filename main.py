@@ -186,7 +186,7 @@ while 1 :
 
         print("## Résultats ##")
         print(f"Parmi les {nt} mains possibles : ")
-        print(f"- {n_highcard} sont des simples paires, soit {n_highcard/nt*100} %")
+        print(f"- {n_highcard} sont des hauteurs, soit {n_highcard/nt*100} %")
         print(f"- {n_onepair} sont des simples paires, soit {n_onepair/nt*100} %")
         print(f"- {n_twopair} sont des doubles paires, soit {n_twopair/nt*100} %")
         print(f"- {n_threeofakind} sont des brelans, soit {n_threeofakind/nt*100} %")
