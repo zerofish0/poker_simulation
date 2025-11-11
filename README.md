@@ -1,6 +1,6 @@
 # Les probabilités et le dénombrement dans le poker
 ## Télécharger l'exécutable
-Pour une utilisation plus simple, téléchargez simplement l'exécutable windows disponible dans le dossier (`executable/`) ou à (cette addresse)[https://www.mediafire.com/file/o4nacx9ot3om1pg/poker_simulation.exe/file]
+Pour une utilisation plus simple, téléchargez simplement l'exécutable windows disponible dans le dossier (`executable/`) ou à [cette addresse](https://www.mediafire.com/file/o4nacx9ot3om1pg/poker_simulation.exe/file)
 
 ## Prérequis
 - Python 3.12 ou version supérieure
